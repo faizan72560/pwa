@@ -1,0 +1,44 @@
+{
+  "jdkPath": "",
+  "androidSdkPath": "",
+  "projectName": "biometric-pwa-app",
+  "packageId": "com.example.biometricpwa",
+  "launcherName": "Biometric PWA",
+  "displayName": "Biometric PWA App",
+  "applicationId": "com.example.biometricpwa",
+  "versionName": "1.0.0",
+  "versionCode": 1,
+  "host": "localhost",
+  "startUrl": "/",
+  "iconUrl": "http://localhost:5176/icon-512.png",
+  "maskableIconUrl": "http://localhost:5176/icon-512.png",
+  "monochromeIconUrl": "http://localhost:5176/icon-512.png",
+  "shortcuts": [],
+  "webManifestUrl": "http://localhost:5176/manifest.json",
+  "themeColor": "#000000",
+  "navigationColor": "#000000",
+  "navigationColorDark": "#000000",
+  "navigationDividerColor": "#000000",
+  "navigationDividerColorDark": "#000000",
+  "backgroundColor": "#ffffff",
+  "enableNotifications": false,
+  "enableSiteSettingsShortcut": true,
+  "appVersionName": "1.0.0",
+  "appVersionCode": 1,
+  "signingKey": {
+    "path": "",
+    "alias": ""
+  },
+  "splashScreenFadeOutDuration": 300,
+  "enableUrlBarHiding": true,
+  "showTitle": true,
+  "useLegacyBridge": false,
+  "features": {
+    "locationDelegation": {
+      "enabled": true
+    },
+    "playBilling": {
+      "enabled": false
+    }
+  }
+}
